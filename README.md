@@ -2,6 +2,8 @@
 
 Software Engineer | Backend Developer Node.js / Express / NestJS / Javascript / Typescript | Vue.js & React Native | Python Developer | SQL Specialist | Technical Lead
 
+## 🛠️ Technologies
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -20,6 +22,8 @@ Software Engineer | Backend Developer Node.js / Express / NestJS / Javascript / 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+
+## 🔍 About me
 Senior Software Engineer with over 15 years of experience in software development.
 Specialized in Node.js, Express, NestJS, Vue.js, and PostgreSQL with over 5 years of hands-on expertise.
 Experienced in building and maintaining React Native Android applications.
