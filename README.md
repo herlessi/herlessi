@@ -38,7 +38,7 @@ Passionate about writing clean, efficient code and delivering high-impact soluti
     *   Analysis and Systems Development
     *   2020-2021
  
-## Idioms
+## Languages
 
 *   **English**
     *   B2
