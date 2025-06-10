@@ -37,6 +37,14 @@ Passionate about writing clean, efficient code and delivering high-impact soluti
 *   **Estácio**
     *   Analysis and Systems Development
     *   2020-2021
+ 
+## Idioms
+
+*   **English**
+    *   B2
+
+*   **Portuguese**
+    *   Native
 
 
 <!--
