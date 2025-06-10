@@ -28,6 +28,16 @@ Skilled in troubleshooting complex issues, leading new project development, enga
 
 Passionate about writing clean, efficient code and delivering high-impact solutions that drive business success.
 
+## Education
+
+*   **FIAP**
+    *   Postgraduate Degree in Software Architecture
+    *   2025-2025
+
+*   **Estácio**
+    *   Analysis and Systems Development
+    *   2020-2021
+
 
 <!--
 **herlessi/herlessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
