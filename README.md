@@ -14,6 +14,7 @@ Software Engineer | Backend Developer Node.js / Express / NestJS / Javascript / 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -26,6 +27,8 @@ Experienced in building and maintaining React Native Android applications.
 Skilled in troubleshooting complex issues, leading new project development, engaging with clients to gather requirements, and mentoring junior developers to enhance team performance.
 
 Passionate about writing clean, efficient code and delivering high-impact solutions that drive business success.
+
+
 <!--
 **herlessi/herlessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
